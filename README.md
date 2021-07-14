@@ -1,20 +1,8 @@
-<pre>
-
-                                                   
-      _____ _____    _____ _____ _____ _____ _____ 
-     |  |  |     |  |_   _|  |  |   __| __  |   __|
-     |     |-   -|    | | |     |   __|    -|   __|
-     |__|__|_____|    |_| |__|__|_____|__|__|_____|
-                                                   
-  
-
-<strong>Welcome to my GitHub profile.</strong>
-
-</pre>
 
 
-### Hi there! <img src="https://user-images.githubusercontent.com/84721020/125681066-757d6f9e-80c0-4edf-a1e4-94f901683ea9.gif" width="25px">
 
+ Hi there! <img src="https://user-images.githubusercontent.com/84721020/125681066-757d6f9e-80c0-4edf-a1e4-94f901683ea9.gif" width="25px">
+Welcome to my GitHub profile.
 <!--
 **r2ff/r2ff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

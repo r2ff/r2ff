@@ -1,9 +1,10 @@
 
 <h3 align="left">
-        <samp>&gt; Hello World! I am Alexey!  <img src="https://user-images.githubusercontent.com/84721020/125681066-757d6f9e-80c0-4edf-a1e4-94f901683ea9.gif" width="25px"> <br>
-         &gt; Welcome to my GitHub profile.             
+        <samp>&gt; Hello World!   <img src="https://user-images.githubusercontent.com/84721020/125681066-757d6f9e-80c0-4edf-a1e4-94f901683ea9.gif" width="25px">
+                    
         </samp>
 </h3>
+I’m currently learning Java QA Automation
 
 #### My tech stack
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/r2ff/r2ff/1cd5ac320c63eada404ddab3cfe71b4fbb5e73b0/svg/git-logo.svg" alt="git"></code>

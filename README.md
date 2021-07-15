@@ -4,7 +4,7 @@
         </samp>
 </h3>
         
-I’m currently learning Java QA Automation <img height="25" src="https://user-images.githubusercontent.com/84721020/125812959-c7a46d81-ea58-4f61-864e-bae47821b479.gif" alt="catcode">
+My name's Alexey and I’m currently learning Java QA Automation <img width="25px" src="https://user-images.githubusercontent.com/84721020/125812959-c7a46d81-ea58-4f61-864e-bae47821b479.gif" alt="catcode">
 
 
 #### My tech stack

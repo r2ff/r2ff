@@ -1,7 +1,6 @@
 
 <h3 align="left">
-        <samp>&gt; Hello World!   <img src="https://user-images.githubusercontent.com/84721020/125681066-757d6f9e-80c0-4edf-a1e4-94f901683ea9.gif" width="25px">
-                    
+        <samp>&gt; Hello World!   <img src="https://user-images.githubusercontent.com/84721020/125681066-757d6f9e-80c0-4edf-a1e4-94f901683ea9.gif" width="25px"        
         </samp>
 </h3>
 I’m currently learning Java QA Automation

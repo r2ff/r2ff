@@ -6,6 +6,10 @@
 </h3>
 
 #### My tech stack
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/r2ff/r2ff/5cf3340f3fe1780ec56363e25228f2436b4482f7/java.svg" alt="java"></code>
+
+
 
 
 <!--

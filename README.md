@@ -18,7 +18,7 @@ My name's Alexey and I’m currently learning Java QA Automation <img width="25p
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/r2ff/r2ff/1cd5ac320c63eada404ddab3cfe71b4fbb5e73b0/svg/allure-logo.svg" alt="allure"></code>
 
 
-
+ 
 
  
 

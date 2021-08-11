@@ -23,7 +23,7 @@ My name's Alexey and I’m currently learning Java QA Automation <img width="25p
  
    
     
-  
+    
   
 <!--
 **r2ff/r2ff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

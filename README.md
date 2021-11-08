@@ -6,6 +6,7 @@
          
 My name's Alexey and I’m currently learning Java QA Automation <img width="25px" src="https://user-images.githubusercontent.com/84721020/125812959-c7a46d81-ea58-4f61-864e-bae47821b479.gif" alt="catcode">
 
+
 #### My tech stack
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/r2ff/r2ff/1cd5ac320c63eada404ddab3cfe71b4fbb5e73b0/svg/git-logo.svg" alt="git"></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/r2ff/r2ff/1cd5ac320c63eada404ddab3cfe71b4fbb5e73b0/svg/java-logo.svg" alt="java"></code>
